@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ghm.
+- 👋 Hi, I’m HamKwok.
 - 👀 I’m interested in learn something new.
 - 🌱 I’m currently learning c++.
 - 💞️ I’m looking to collaborate on ...
