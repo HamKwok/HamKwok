@@ -1,5 +1,19 @@
-- 👋 Hi, I’m HamKwok.
-- 👀 I’m interested in learn something new.
-- 🌱 I’m currently learning c++.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there 👋
+
+你好呀！💡
+
+我是[Ham](https://github.com/HamKwok)，一位正在不断学习和思考的学生。
+
+喜欢折腾，同时在编程的路上越走越远。欢迎关注我的工作！
+
+喜欢计算机，软硬件开发，游戏，美食......
+
+梦想是做一名能够全栈开发的工程师，DIY一些自己喜欢的工具和有意思的小玩意！
+
+你可以在我的[Github仓库](https://github.com/HamKwok?tab=repositories)找到我的项目。
+
+我知道我的代码写得不够好，但在这里我将记录自己的成长。
+
+希望能够不断进步，提高自己的技术。
+
+如果你有任何问题或者想要交流，都可以随时联系我。
